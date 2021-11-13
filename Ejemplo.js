@@ -1,4 +1,6 @@
 console.log("Este es un ejemplo para git hub");
+console.log("Hola muchachos");
+console.log("Este es un ejemplo para git hub");
 //soy un comentario
 
 /**
